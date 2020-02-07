@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tianchi大赛训练集.main.model" />
+          <option value="machineLerning.main_qt_slot_test.labels_01" />
+          <option value="Axes3D" />
+          <option value="leetcode.广度优先搜索.迷宫.direction" />
+          <option value="geoip2.geolite2" />
+          <option value="GPS定位.gps.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
